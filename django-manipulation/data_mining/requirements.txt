@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+Django==1.8
+=======
+>>>>>>> deec45f1880fd8315cb85e307555269f5022d885
+django-bootstrap-toolkit==2.15.0
+django-bootstrap3==5.4.0
+django-countries==3.3
+django-jquery==1.9.1
+Pillow==2.3.0

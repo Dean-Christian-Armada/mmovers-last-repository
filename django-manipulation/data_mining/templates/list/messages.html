@@ -1,0 +1,7 @@
+{% extends 'list/base.html' %}
+{% load inbox %}
+
+{% block title %} Messages {% endblock %}
+{% block body %}
+	{% inbox_count %}
+{% endblock %}
